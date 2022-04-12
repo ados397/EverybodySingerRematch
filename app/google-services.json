@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "481099258913",
+    "project_id": "everybodysingerrematch",
+    "storage_bucket": "everybodysingerrematch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481099258913:android:6b00a82661f0ac349bd760",
+        "android_client_info": {
+          "package_name": "com.ados.everybodysingerrematch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481099258913-fuq60b0g7qtja8l0jkk4i94gqcpci023.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7we3t-yGlyz3wEDM07-7F3evYpDDQXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481099258913-fuq60b0g7qtja8l0jkk4i94gqcpci023.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481099258913-qtsdh52682a38pb9cr8esoir1m0pkk51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zoosoft.EverybodySingerRematch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
